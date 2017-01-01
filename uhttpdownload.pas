@@ -6,6 +6,9 @@ unit uhttpdownload;
                                uhttpdownload Unit
           Threaded download with progress details using Synapse Library
                     (c) 2016 by Dio Affriza under BSD License
+                    
+            See the file LICENSE.txt, included in this distribution,
+                        for details about the copyright.
   ****************************************************************************
 }
 interface
